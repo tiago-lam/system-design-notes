@@ -8,6 +8,6 @@ We ended up using [Apache JMeter](https://jmeter.apache.org/). It allowed us to 
 
 In this process, many of my notes were lost. I then decided to restart this habit and keep them here for data persistence, distribution, easy access and learning.
 
-## Partitioning (Partitioning/partitioning.md)
+## [Partitioning](Partitioning/partitioning.md)
 
 
