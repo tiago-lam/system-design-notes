@@ -8,6 +8,11 @@ We ended up using [Apache JMeter](https://jmeter.apache.org/). It allowed us to 
 
 In this process, many of my notes were lost. I then decided to restart this habit and keep them here for data persistence, distribution, easy access and learning.
 
+
+## [Consistency](Consistency/consistency.md)
+
 ## [Partitioning](Partitioning/partitioning.md)
+
+## [Stream-Messaging](Stream-Messaging/stream_messaging.md)
 
 
