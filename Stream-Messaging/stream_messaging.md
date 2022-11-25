@@ -27,3 +27,9 @@ Hybrid approach combining the low-latency of message brokers with the durability
 ### Change Data Capture (CDC)
 Messaging systems are suitable for the delivery of CDC since it can capture the data that has changed and replicate the change to other systems. 
 **Obs.:** CDC is the process of capturing all the data that has changed in a database, and replicate only the changes in another database
+
+### Complex Event Processing (CEP)
+In these systems the relationship between queries and data is reversed to what we see in databases. CEP systems stores queries and when data flows from the streams it looks for a query that matches a pattern.
+
+### Approximation as optimization
+Stream analytics systems uses probability algorithms for approximation results. It is a practice used to optimize memory usage.
